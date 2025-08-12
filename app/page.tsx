@@ -380,7 +380,7 @@ export default function Page() {
       <header className="border-b bg-background">
         <div className="mx-auto max-w-6xl px-4 py-4 flex items-center gap-3">
           <Github className="h-6 w-6" />
-          <h1 className="text-xl font-semibold">GitHub フィード #43; 自分のアクティビティ</h1>
+          <h1 className="text-xl font-semibold">GitHub フィード 自分のアクティビティ</h1>
           <div className="ml-auto flex items-center gap-2">
             <Badge variant="secondary" className="hidden sm:inline-flex">
               プライベートトークンは送信先のこのアプリにのみ届きます
